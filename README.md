@@ -9,3 +9,6 @@
 ### Visual Studio Code
 #### Extensions
 ##### Go
+## Links
+### https://en.wikipedia.org/wiki/Go_(programming_language)
+### https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go
