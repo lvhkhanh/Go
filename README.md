@@ -18,3 +18,5 @@
 ### https://en.wikipedia.org/wiki/Go_(programming_language)
 ### https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go
 ### [Vi]https://topdev.vn/blog/golang-thuc-su-tot-trong-truong-hop-nao/
+## Notes
+Vite
